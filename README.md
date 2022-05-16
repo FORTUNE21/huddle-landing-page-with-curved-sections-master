@@ -48,7 +48,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ##Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/FORTUNE21/huddle-landing-page-with-curved-sections-master)
 - Live Site URL: (https://huddlestyles.netlify.app/)
  
 
